@@ -1,4 +1,5 @@
 require 'parslet'
+require 'parslet/accelerator'
 require 'erb'
 
 begin
